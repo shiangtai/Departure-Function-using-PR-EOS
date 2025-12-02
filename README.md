@@ -9,3 +9,7 @@ Calculate the fugacity of a fluid using the PR EOS (this is in essence the calcu
 vaporpressure.py
 # Vapor pressure calculation usin PR EOS
 Calculate the vapor pressure of a pure fluid using the PR EOS
+
+fugacity-mixture.py
+# fugacity calculation of species in a mixture using the PR EOS with the van der Waals one-fluid mixing rule
+Calculate the fugacity of every component in a mixture fluid using the PR EOS
